@@ -1,0 +1,20 @@
+.unorderList {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  transform: translateX(30%);
+  list-style: none;
+}
+
+.list {
+  display: flex;
+  width: 200px;
+  height: 200px;
+  flex-direction: column;
+  gap: 0.25rem;
+  background-color: yellow;
+  border-radius: 50px;
+  justify-content: center;
+  align-items: center;
+}
+
